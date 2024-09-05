@@ -18,7 +18,7 @@
 # NOTE: In order to use this script for source control purposes, please make sure that the
 #       following files are added to the source control system:-
 #
-# 1. This project restoration tcl script (esim.tcl) that was generated.
+# 1. This project restoration tcl script (restore_project.tcl) that was generated.
 #
 # 2. The following source(s) files that were local or imported into the original project.
 #    (Please see the '$orig_proj_dir' and '$origin_dir' variable setting below at the start of the script)
